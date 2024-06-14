@@ -12,7 +12,8 @@ SankakuDesktop
 通过调用系统WebView2来渲染界面。  
 通过调用[aria2](https://github.com/aria2/aria2)来实现下载。
 
-详细介绍请查阅[Wiki](https://github.com/xenon2333/SankakuDesktop/wiki)。
+详细介绍请查阅[Wiki](https://github.com/xenon2333/SankakuDesktop/wiki)。  
+[更新日志](/UPDATE.md)
 
 ## 环境
 - [x] 一台Windows系统的电脑
@@ -30,5 +31,8 @@ SankakuDesktop
 Email: xenon2333@qq.com  
 投食：
 
+↓Wechat  
 <img src="/qrcode/wechat.png" alt="Wechat" title="微信" style="width: 200px; height: 200px;">
+
+↓Alipay  
 <img src="/qrcode/alipay.jpg" alt="Alipay" title="支付宝" style="width: 200px; height: 200px;">
