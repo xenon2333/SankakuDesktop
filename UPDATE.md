@@ -1,3 +1,8 @@
+## v0.1.6
+优化：
+- 修改User Agent，现在对应Sankaku Black 4.6.1
+- 修改API地址和部分请求URL（旧API目前仍然可用，但建议尽早升级）
+
 ## v0.1.5
 新增功能：
 - “帖子详情”页标签翻译（需配置`translate.csv`）
