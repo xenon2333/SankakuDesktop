@@ -1,3 +1,11 @@
+## v0.1.7
+优化：
+- 修改User Agent，现在对应Sankaku Black 4.10
+- 模拟平板客户端逻辑，单页查询数量调整至80
+
+修复：
+- 因缺少`platform`请求头，导致获取的预览图无法被正确解码的问题
+
 ## v0.1.6
 优化：
 - 修改User Agent，现在对应Sankaku Black 4.6.1
